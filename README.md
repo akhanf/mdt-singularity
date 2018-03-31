@@ -8,7 +8,6 @@ I made this Singularity container for utilizing the CPUs for OpenCL on Linux sys
 *Note:* This requires Singularity to be installed (http://singularity.lbl.gov/), requires sudo privilege to build the container (local machine), but can be used without sudo privilege by copying the container to another system.
 
 Build:
-Step 1: 
 ```
 git clone http://github.com/akhanf/mdt-singularity
 cd mdt-singularity
